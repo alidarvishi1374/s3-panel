@@ -18,6 +18,12 @@ database/*
 Dockerfile
 .dockerignore
 
+# gitlab ci
+.gitlab-ci.yml
+
+# sonarqube properties
+sonar-project.properties
+
 # Environment and editor configs
 .env
 *.swp
